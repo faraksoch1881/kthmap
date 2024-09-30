@@ -1,0 +1,1 @@
+=DATE(LEFT(A2,4), MID(A2,5,2), RIGHT(A2,2))
